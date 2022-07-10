@@ -18,3 +18,4 @@ Created with CodeSandbox
 ```
 
 - Path 記載のときは必要な時の「exact」を忘れずに
+- URLSearchParams()：URL を扱うための便利なメソッドを持っている
